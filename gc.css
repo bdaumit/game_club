@@ -16,18 +16,22 @@ nav {
 	margin: auto;
 	width: 100%;
 	padding: 5x;
+	position: fixed;
+	top: 0;
+
 
 }
 nav a {
-	border: cornflowerblue solid 2px;
-	margin: auto;
-	padding-left: 15%;
-	padding-right: 15%;
-	padding-top: 3px;
-	padding-botom: 3px;
+	padding-right: 20px;
+	padding-left: 20px;
 }
 
 nav a:hover {
 	background-color: yellow;
 	color: black;
+}
+#test {
+	height: 1000px;
+	background-color: red;
+	border: double red 2px;
 }
