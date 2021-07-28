@@ -1,0 +1,33 @@
+/*The Game Club*/
+#banner {
+	height: 400px;
+	background-color: #000033;
+	padding-top: 100px;
+	color: cornflowerblue;
+	margin: auto;
+	text-align: center;
+	width: 100%;
+
+}
+nav {
+	height 30px;
+	background-color: black;
+	color: cornflowerblue;
+	margin: auto;
+	width: 100%;
+	padding: 5x;
+
+}
+nav a {
+	border: cornflowerblue solid 2px;
+	margin: auto;
+	padding-left: 15%;
+	padding-right: 15%;
+	padding-top: 3px;
+	padding-botom: 3px;
+}
+
+nav a:hover {
+	background-color: yellow;
+	color: black;
+}
